@@ -1,0 +1,10 @@
+﻿  Final Project.cpp
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(252,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(364,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(365,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(369,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(370,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(372,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(373,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Final Project.cpp(383,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Final Project.vcxproj -> C:\Users\Zac\OneDrive - SNHU\SNHU\Computer Graphic and Visualization\Module 7\Final\Final Project\Debug\Final Project.exe
